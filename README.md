@@ -14,7 +14,6 @@ I'm starting projects with :
 <br>
 🚀I am improving myself and seeking knowledge, as I will soon enter the market as a programmer.🚀 
 
-<img align="left" width="22px" src="https://github.com/user-attachments/assets/e0a10396-c657-4cd9-b698-9238895f0068"/>
 <img align="rigth" width="22px" src="https://github.com/user-attachments/assets/e0a10396-c657-4cd9-b698-9238895f0068"/>
 
 <br>
