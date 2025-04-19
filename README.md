@@ -36,7 +36,7 @@ I'm starting projects with :
 <br>
 
 
-	<img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=whitec"/>
+<img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=whitec"/>
  
  <br>
  <br>
