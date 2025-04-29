@@ -3,11 +3,12 @@
 I'm Tiago Oliveira, I'm a Front End programmer, I'm currently learning and creating projects with:
   <li>HTML
   <li>CSS</li>
+  <li>JAVA SCRIPT
+<li>
   <ul/>
     <br>
     
 I'm starting projects with :
-<li>JAVA SCRIPT
 <li>REACT</li>
 </li>
     
