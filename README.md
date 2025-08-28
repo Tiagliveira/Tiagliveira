@@ -4,6 +4,8 @@ I'm Tiago Oliveira, I'm a Front End programmer, I'm currently learning and creat
   <li>HTML
   <li>CSS</li>
   <li>JAVA SCRIPT
+  <li>REACT</li>
+  <li>TYPE SCRIPT</li>
 
   <ul/>
     <br>
