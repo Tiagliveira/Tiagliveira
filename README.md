@@ -2,9 +2,9 @@
 
 I'm a passionate **Front-End Developer** currently focused on building responsive and dynamic web interfaces. I'm constantly learning and improving my skills to become a strong contributor in the tech industry.
 
-## 🚀 Technologies I'm working with
+## Technologies I'm working with
 
-## 🧰 Tecnologias
+## Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,12 +19,12 @@ I'm a passionate **Front-End Developer** currently focused on building responsiv
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🧪 Currently Learning
+## Currently Learning
 
 - **Nest.js** — Building scalable back-end APIs with TypeScript
 - **Tailwind CSS** — Utility-first styling for modern web interfaces
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Tiago Oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiagliveira&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagliveira&layout=compact&theme=radical)
