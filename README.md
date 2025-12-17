@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, eu sou Tiago Oliveira
+#Olá, eu sou Tiago Oliveira
 
 Sou um **Desenvolvedor Full Stack** em transição de carreira, focado em criar aplicações escaláveis e performáticas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Gran Faculdade e me especializando no ecossistema JavaScript (React & Node.js).
 
@@ -6,7 +6,7 @@ Minha paixão é transformar problemas complexos em código limpo, focando não 
 
 ---
 
-### 🚀 Projeto em Destaque: Stack Burger (Delivery SaaS)
+###Projeto em Destaque: Stack Burger (Delivery SaaS)
 Desenvolvi uma plataforma completa de delivery com funcionalidades avançadas:
 - **Infraestrutura:** VPS Linux própria com Docker e orquestração via Easypanel.
 - **Real-Time:** WebSockets (Socket.io) para atualização de pedidos sem delay.
@@ -15,7 +15,7 @@ Desenvolvi uma plataforma completa de delivery com funcionalidades avançadas:
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+###Tech Stack & Ferramentas
 
 **Front-End:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,14 +37,14 @@ Desenvolvi uma plataforma completa de delivery com funcionalidades avançadas:
 
 ---
 
-### 📊 GitHub Stats
+###GitHub Stats
 
 ![Tiago Oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiagliveira&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagliveira&layout=compact&theme=radical&hide=html,css,php,blade)
 
 ---
 
-### 📫 Contato
+###Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoliveira-)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagliveira92@gmail.com)
