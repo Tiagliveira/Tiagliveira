@@ -38,8 +38,10 @@ Desenvolvi uma plataforma completa de delivery com funcionalidades avançadas:
 
 ### GitHub Stats
 
-![Tiago Oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiagliveira&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagliveira&layout=compact&theme=radical&hide=html,css,php,blade)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tiagliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagliveira&layout=compact&theme=radical&hide=html,css,php,blade"/>
+</div>
 
 ---
 
