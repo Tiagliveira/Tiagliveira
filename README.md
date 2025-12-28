@@ -37,7 +37,7 @@ Desenvolvi uma plataforma completa de delivery com funcionalidades avançadas:
 ---
 
 ## Tecnologias
-[![Minhas Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,tailwind,nextjs,nestjs,docker,git,postgres,mongodb,sequelize)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,ts,tailwind,nextjs,nestjs,docker,postgres,mongodb,sequelize)](https://skillicons.dev)
 
 ---
 
