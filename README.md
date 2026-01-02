@@ -1,6 +1,6 @@
 # Olá, eu sou Tiago Oliveira
 
-Sou um **Desenvolvedor Full Stack** em transição de carreira, focado em criar aplicações escaláveis e performáticas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Gran Faculdade e me especializando no ecossistema JavaScript (React & Node.js).
+Sou um **Desenvolvedor Full Stack** focado em criar aplicações escaláveis e performáticas. Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Gran Faculdade e me especializando no ecossistema JavaScript (React & Node.js).
 
 Minha paixão é transformar problemas complexos em código limpo, focando não apenas no Front-end, mas em toda a infraestrutura da aplicação (**DevOps**).
 
